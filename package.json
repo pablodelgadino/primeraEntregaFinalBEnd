@@ -1,0 +1,13 @@
+{
+  "name": "primeraentregafinal",
+  "Version": "1.0.0",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  }, 
+  "author": "Pablo Delgadino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
